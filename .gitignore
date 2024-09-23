@@ -1,2 +1,3 @@
 this is a file in caching project git ignore files
-
+.vscode/
+.vscode/settings.json
